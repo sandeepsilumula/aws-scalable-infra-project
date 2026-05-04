@@ -3,6 +3,7 @@
 Scalable Cloud Infrastructure Deployment: A high-availability AWS architecture featuring an Auto Scaling Group, Application Load Balancer, and automated log management. Demonstrates proficiency in custom AMI creation, fault-tolerant design, and S3 data integration.
 
 AWS Scalable Web Infrastructure: Amazon Clone Deployment
+
 🎯 Project Objective
 The goal of this project was to transition a manual application deployment into a scalable, fault-tolerant infrastructure. By moving from a single EC2 instance to an Auto Scaling Group (ASG) behind an Application Load Balancer (ALB), I ensured the application can handle traffic spikes and hardware failures automatically.
 
